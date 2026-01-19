@@ -16,8 +16,8 @@ The converter delivers 0.6 MW active power and 0 MVar reactive power to the grid
 | Transformer | Short-circuit voltage | 6 | kW |
 |  | Copper loss | 2.799611 | kW |
 |  | Rated power | 2.8 | MVA |
-|  | Rated power | 30 | kV |
-|  | High-voltage side rated voltage | 1.5 | kV |
+|  | High-voltage side rated voltage | 30 | kV |
+|  | Low-voltage side rated voltage | 1.5 | kV |
 | Outer loop power control | Active power proportional gain | 3 |  |
 |  | Active power integral gain | 0.8 |  |
 |  | Reactive power proportional gain | 2 |  |
